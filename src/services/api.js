@@ -6,7 +6,7 @@ import { Platform } from 'react-native';
 // CHANGE THIS after deploying backend to Render
 // Example: 'https://sde-tracker-api.onrender.com/api'
 // ============================================
-const PRODUCTION_API = ''; // Set your deployed backend URL here
+const PRODUCTION_API = 'https://sde-tracker-backend.onrender.com/api';
 
 const getApiUrl = () => {
   // If production URL is set, use it everywhere
