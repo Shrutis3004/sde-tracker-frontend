@@ -6,6 +6,8 @@ A React Native Android app for DSA preparation built around Striver's **takeUfor
 
 [**Download APK**](https://github.com/Shrutis3004/sde-tracker-frontend/releases) *(local build: `application-aaee317b-8aab-4a75-b97f-15c2b6ba5fd9.apk`)*
 
+[**Watch Demo (Screen Recording)**](https://drive.google.com/file/d/1ciJ0CI4zExEzdHsCsKYPEe6omkxT3Zyt/view?usp=sharing)
+
 ## Features
 
 - **9 Striver Sheets** — SDE Sheet, A2Z DSA, Blind 75, Striver 79, CP Sheet, CN, DBMS, OS, System Design
