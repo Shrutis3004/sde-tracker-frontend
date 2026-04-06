@@ -4,7 +4,7 @@ A React Native Android app for DSA preparation built around Striver's **takeUfor
 
 ## Download
 
-[**Download APK**](https://github.com/Shrutis3004/sde-tracker-frontend/releases) *(local build: `application-aaee317b-8aab-4a75-b97f-15c2b6ba5fd9.apk`)*
+[**Download APK**](https://github.com/Shrutis3004/sde-tracker-frontend/releases/download/v1.0.0/sde-tracker.apk)
 
 [**Watch Demo (Screen Recording)**](https://drive.google.com/file/d/1ciJ0CI4zExEzdHsCsKYPEe6omkxT3Zyt/view?usp=sharing)
 
